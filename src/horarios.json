@@ -1,0 +1,258 @@
+[
+    {
+        "_id": "58a8abec757d547b0800000c",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 600,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8abf5757d547b0800000d",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 630,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac01757d547b0800000e",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 700,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac0f757d547b0800000f",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 730,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac19757d547b08000010",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 800,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac37757d547b08000011",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 830,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac4c757d547b08000012",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 900,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac5c757d547b08000013",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 945,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac6f757d547b08000014",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1030,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac7d757d547b08000015",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1115,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ac96757d547b08000016",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1200,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8aca3757d547b08000017",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1245,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8acb3757d547b08000018",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1330,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8acc4757d547b08000019",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1400,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8acc9757d547b0800001a",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1430,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8acd8757d547b0800001b",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1500,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad0a757d547b0800001c",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1530,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad18757d547b0800001d",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1600,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad1f757d547b0800001e",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1630,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad2f757d547b0800001f",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1700,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad42757d547b08000020",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1730,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad4e757d547b08000021",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1800,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad6f757d547b08000022",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1830,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad7a757d547b08000023",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1900,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ad8a757d547b08000024",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 1930,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8ada1757d547b08000025",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2000,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8adb2757d547b08000026",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2030,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8adbe757d547b08000027",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2100,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8adc9757d547b08000028",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2130,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    },
+    {
+        "_id": "58a8add5757d547b08000029",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2200,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8addd757d547b0800002a",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2230,
+        "informacion": "28 de Julio",
+        "__v": 0
+    },
+    {
+        "_id": "58a8adeb757d547b0800002b",
+        "origen": "Puerto Madryn",
+        "destino": "Trelew",
+        "horario": 2315,
+        "informacion": "Mar y Valle",
+        "__v": 0
+    }
+]

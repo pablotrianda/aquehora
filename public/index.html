@@ -1,0 +1,73 @@
+<!-- index.html -->
+<!doctype html>
+
+<!-- ASSIGN OUR ANGULAR MODULE -->
+<html ng-app="scotchTodo">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Optimize mobile viewport -->
+
+    <title>¿A que hora?</title>
+
+    <!-- SCROLLS -->
+    <link rel="stylesheet" href="css/bootstrap.css"><!-- load bootstrap -->
+    <script src="jquery.min.js"></script><!-- load jquery -->
+    <script src="core.js"></script>
+    <style>
+        html                    { overflow-y:scroll; }
+        body                    { padding-top:50px; }
+        #horarios-list          { margin-bottom:30px; }
+    </style>
+
+    
+</head>
+
+<body ng-controller="mainController">
+        <!-- HEADER -->
+        <div class="jumbotron text-center">
+            <h1>Próximos colectivos <span id="hora_actual"class="label label-info"></span></span></h1>
+        </div>
+
+        <!-- PROXIMOS COLECTIVOS -->
+        <div id="horarios-list" >
+            <div class="col-sm-4 col-sm-offset-4">
+                <!-- LOOP IN $scope.horarios -->
+                <div class="label label-success" ng-repeat="todo in todos">
+                    <label>
+                         <h4><span>{{ horario.origen }}</span>
+                         </h4>
+                         <h4><span>{{ horario.destino }}</span>
+                         </h4>
+                         <h4><span>{{ horario.horario }}</span>
+                         </h4>
+                    </label>
+
+
+                </div>
+
+            </div>
+        </div>
+
+    <script>
+    var tiempo = new Date();
+    var h = tiempo.getHours();
+    var m = tiempo.getMinutes();
+
+    if (h < 10){
+        var hora = new String ('0'+h);  
+        h = hora;
+    }
+    if (m < 10){
+        var min = new String ('0'+m);  
+        m = min
+    }
+
+    str_hora = new String(h + ':' + m)
+
+    document.getElementById('hora_actual').innerHTML = str_hora;
+
+</script>
+
+</body>
+</html>
